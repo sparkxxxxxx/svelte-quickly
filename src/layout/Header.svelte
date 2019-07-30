@@ -1,0 +1,9 @@
+<style>
+    .header {
+        height: 50px;
+        width: 100%;
+        background-color: red;
+    }
+</style>
+
+<div class="header"></div>
