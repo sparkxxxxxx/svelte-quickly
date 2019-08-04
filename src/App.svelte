@@ -1,6 +1,6 @@
 <script>
-	import Header from './layout/Header.svelte';
-	let name = 'world';
+	import { onMount } from 'svelte';
+	import List from './layout/List.svelte';
 </script>
 
-<Header />
+<List />
